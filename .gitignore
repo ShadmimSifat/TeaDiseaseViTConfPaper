@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+tf_env/
+
+# Dataset
+data/
+
+# Model checkpoints
+checkpoints/
+

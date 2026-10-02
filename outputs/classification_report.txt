@@ -1,0 +1,13 @@
+               precision    recall  f1-score   support
+
+  Anthracnose       0.73      0.80      0.76        10
+   Algal Leaf       0.88      0.58      0.70        12
+Bird Eye Spot       0.78      0.70      0.74        10
+ Brown Blight       0.86      0.50      0.63        12
+      Healthy       1.00      0.88      0.93         8
+Red Leaf Spot       1.00      1.00      1.00        15
+   White Spot       0.54      0.93      0.68        14
+
+     accuracy                           0.78        81
+    macro avg       0.83      0.77      0.78        81
+ weighted avg       0.82      0.78      0.78        81
